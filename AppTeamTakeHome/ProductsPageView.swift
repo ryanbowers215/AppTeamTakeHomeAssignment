@@ -50,7 +50,7 @@ struct ProductsPageView: View {
                         }
                         
                     
-                    }
+                    }.padding(.bottom, 70)
                 }
                 
                 

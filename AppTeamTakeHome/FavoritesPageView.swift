@@ -33,7 +33,7 @@ struct FavoritesPageView: View {
                             }
                         }
                         
-                    }
+                    }.padding(.bottom, 70)
                 }
                 
                 
